@@ -642,7 +642,7 @@ background: var(--light-gray) 110% url("images/wood.png");
         - clear any floats
 */
 #section9{
-    
+    clear: both;
 }
 
 /* ------------- SECTION 9 STYLES ---------------- */
